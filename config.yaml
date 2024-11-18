@@ -1,0 +1,58 @@
+projectName: Digital Marketing Glossary
+jsonFilePath: ./input.json
+baseUrl: https://publish7.com
+portalHeading: Unlock Growth with AI Marketing Agents
+portalDescription: >-
+  Act as a digital marketing expert and generate all the available digital
+  marketing glossary terms. The terms should be only relevant to the digital
+  marketing.
+portalTitle: Digital Marketing Glossary
+searchPlaceholder: Search digital marketing terms...
+useAlphabetsCategory: true
+homeLink: https://publish7.com/
+logoLink: https://publish7.com/
+ctaText: Get Started
+aboutLink: https://publish7.com/about
+productsLink: https://publish7.com/products
+logoImgUrl: https://publish7.com/logo.png
+ctaLink: https://publish7.com/auth
+copyrightText: © 2023 Publish7. All rights reserved.
+faviconUrl: https://publish7.com/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/publish7
+  - platform: Facebook
+    url: https://facebook.com/publish7
+  - platform: LinkedIn
+    url: https://linkedin.com/company/publish7
+theme:
+  primaryColor: '#4A90E2'
+  secondaryColor: '#50E3C2'
+  backgroundColor: '#FFFFFF'
+  textColor: '#333333'
+  accentColor: '#F5A623'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto
+    weights:
+      - 500
+      - 600
+      - 700
